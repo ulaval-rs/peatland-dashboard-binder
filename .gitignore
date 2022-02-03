@@ -3,3 +3,8 @@
 !.gitignore
 !README.md
 !requirements.txt
+
+!.binder/
+!.binder/**
+
+*.pyc
